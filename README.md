@@ -1,6 +1,9 @@
 Team 1 - Teamwork CW
+
 Users:
-GidXn - Mykhailo
-Dima - Dmytro
-robb211 - Yaroslav
-sigma12312 - Stanislav
+Dima - Самолюк Дмитро Ігорович - 
+GidXn - Гидін Михайло Андрійович
+robb211 - Бассараба Ярослав Олександрович
+sigma12312 - Перепечай Станіслав Миколайович
+
+Task:
