@@ -1,9 +1,26 @@
-Team 1 - Teamwork CW
+using Team1.TeamworkCW
 
-Users:
-Dima - Самолюк Дмитро Ігорович - TL;
-GidXn - Гидін Михайло Андрійович;
-robb211 - Бассараба Ярослав Олександрович;
-sigma12312 - Перепечай Станіслав Миколайович;
-
-Task:
+Users(Tasks) {
+  Dima(СамолюкДмитроІгорович.TeamLeader) {
+    Create AppDbContext;
+    Create CategoryRepository;
+    CategoryService;
+  };
+  
+  robb211(БассарабаЯрославОлександрович) {
+    Create entity and dtos;
+    Create ProductRepository;
+    Create ProductService;
+  };
+  
+  GidXn(ГидінМихайлоАндрійович) {
+    Create controlles;
+    Dtos validation;
+    Create EmailService;
+  };
+  
+  sigma12312 - ПерепечайСтаніславМиколайович {
+    Add serilog;
+    Add and settings automapper;
+    Create ImageService;
+  };
