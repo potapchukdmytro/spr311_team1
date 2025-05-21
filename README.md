@@ -2,25 +2,25 @@ using Team1.TeamworkCW
 
 Users(Tasks) {
   Dima(СамолюкДмитроІгорович.TeamLeader) {
-    Create AppDbContext;
-    Create CategoryRepository;
-    CategoryService;
+    Add.AppDbContext;
+    Add.CategoryRepository;
+    Add.CategoryService;
   };
   
   robb211(БассарабаЯрославОлександрович) {
-    Create entity and dtos;
-    Create ProductRepository;
-    Create ProductService;
+    Add.Entity+DTOs;
+    Add.ProductRepository;
+    Add.ProductService;
   };
   
   GidXn(ГидінМихайлоАндрійович) {
-    Create controlles;
-    Dtos validation;
-    Create EmailService;
+    Add.Controllers;
+    Add.DTOs(validation);
+    Add.EmailService;
   };
   
-  sigma12312 - ПерепечайСтаніславМиколайович {
-    Add serilog;
-    Add and settings automapper;
-    Create ImageService;
+  sigma12312(ПерепечайСтаніславМиколайович) {
+    Add.Serilog;
+    Add.Automapper(setting);
+    Add.ImageService;
   };
